@@ -1,7 +1,7 @@
 fieldset {border: 1px solid green; margin-left: 20px; margin-right: 40px; margin-top: 10px;}
 legend {color: magenta;}
 h1{color: #CC9900;}
-h3{text-align: center;}
+h3{text-align: center; color: #CC9900;}
 
 #button {margin-top: 20px; border: 1px solid orange; color: green;}
 
